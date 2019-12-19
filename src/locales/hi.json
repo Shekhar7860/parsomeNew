@@ -1,0 +1,16 @@
+{
+  "login": {
+    "welcome2": "Welcome {{name}} to our localized app!",
+    "login_button": "लॉग इन",
+    "mybutton": "Sign Up",
+    "home" : "होम", 
+    "started" : "आएँ शुरू करें",
+    "eng" : "अंग्रेज़ी",
+    "hin" : "हिंदी",
+    "audios" : "ऑडियो", 
+     "welcome" : "नमस्कार, आपका स्वागत है मोडिकेयर ऑडियो ट्रेनिंग सेशन में, यहाँ आप सुन सकते हैं मोडिकेयर लीडर्स के ऑडियो, उनकी सफलता के मंत्र ।। इसलिए, आरंभ करने के लिए नीचे क्लिक करें"
+  },
+  "user_profile": {
+    "title": "Your Profile"  
+  }
+}

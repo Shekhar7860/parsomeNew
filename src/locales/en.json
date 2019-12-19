@@ -1,0 +1,16 @@
+{
+  "login": {
+    "welcome2": "Welcome {{name}} to our localized app!",
+    "login_button": "Login",
+    "mybutton": "Sign Up",
+    "home" : "Home",
+    "started" : "Let's get started",
+    "eng" : "English",
+    "hin" : "Hindi",
+    "audios" : "Audios",
+    "welcome" : "Hello, Welcome To Modicare Audio Training Session, Here you can find listen audios of modicare leaders, their success mantras. Therefore, click below to get started"
+  },
+  "user_profile": {
+    "title": "Your Profile"  
+  }
+}
